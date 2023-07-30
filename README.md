@@ -22,7 +22,6 @@ Now you can install all your requirements within virtual environment
 
 ## Project Structure
 learn_celery/
-│
 ├── your_project_files.py
 ├── your_other_files.py
 ├── requirements.txt
